@@ -1,0 +1,10 @@
+name: email-assistant-env
+description: Email classification environment for AI agents
+
+tasks:
+  - name: classify_email
+    difficulty: easy
+  - name: prioritize_email
+    difficulty: medium
+  - name: generate_reply
+    difficulty: hard
