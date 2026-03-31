@@ -1,0 +1,13 @@
+[project]
+name = "email-assistant"
+version = "0.1.0"
+description = "Email classification and reply assistant"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
